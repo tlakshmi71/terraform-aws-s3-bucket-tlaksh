@@ -1,6 +1,6 @@
 # terraform-aws-s3-bucket
 
-A simple Terraform module to create an AWS S3 bucket.
+A simple Terraform module to create an AWS S3 bucket. - Tag 1.1.0
 
 ## Usage
 
